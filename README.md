@@ -1,9 +1,16 @@
 # Landing Page Project
 
-## Instructions
+## Project Description
+This project is the final assignment in the Udacity Front-End Development Nanodegree Program. It involves creating a landing page with dynamically generated navigation links. The links scroll smoothly to the corresponding sections, and the sections in the viewport are highlighted.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Usage
+Simply open the `index.html` file in a browser to view the landing page.
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Dependencies
+No external dependencies are required.
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Comments
+Comments are provided in the `app.js` file to explain each part of the code.
+
+Enjoy.
+-zay 🫡
